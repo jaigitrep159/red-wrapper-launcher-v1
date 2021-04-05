@@ -168,5 +168,5 @@ title Loading...
 :: Open Wrapper in preferred browser
 	echo Opening RedWrapper Inline using included Chromium...
 	pushd utilities\ungoogled-chromium
-	start chrome.exe --user-data-dir=the_profile --app=https://wrapper.online
+	start chrome.exe --user-data-dir=the_profile --app=https://redfirewrapper.herokuapp.com/html/list.html
 	popd
