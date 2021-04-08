@@ -9,3 +9,5 @@ open windows-open.bat
 
 # What do you need
 you need a old version of the flash and ungoogled chromium to use the launcher
+# Operative system supported
+it's only supported windows.
